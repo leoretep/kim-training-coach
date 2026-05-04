@@ -1,38 +1,34 @@
-# ATHLETEN DOSSIER (Stand: 27.03.2026)
+# ATHLETEN DOSSIER (Stand: 04.05.2026)
 
 ## PHYSIOLOGIE & ZONEN
-- **FTP:** 210 W (Indoor / Wahoo Kickr Core). 
-- **Puls-Daten:** Ruhepuls ~40 BPM | Max-Puls 186 BPM.
-- **Laktatschwelle (LTHR):** ~170-174 BPM.
+- **FTP:** 116 W (Indoor / Wahoo Kickr Core). 
+- **Puls-Daten:** Ruhepuls ~58 BPM | Max-Puls 195 BPM.
+- **Laktatschwelle (LTHR):** ~166 BPM.
 - **Zonen-Modell:** LTHR-basiert (Intervals.icu / Coros).
 - **Besonderheit:** Fokus auf Herzfrequenz-Steuerung beim Laufen und Outdoor-Radfahren.
 
 ## TRAININGSHINTERGRUND & STIL
-- **Erfahrung:** 17 Jahre Feldhockey, seit Q4 2023 Ausdauersport (ambitioniert). Berlin Marathon 2025 (4:04:00). Köln Marathon 2025 (3:43:00). Düsseldorf Halbmarathon 2026 (1:30:01). 
-- **Stil:** Großer Fan von strukturierten Plänen (z.B. Pfitzinger 18/55).
-- **Präferenz:** Laufen am liebsten draußen, Radfahren auch indoor okay (Wahoo).
-- **Rhythmus:** Montags bevorzugt Ruhetag. Umfang 6-12 Std./Woche. 40h Woche Arbeit plus 1h Pendeln pro Tag.
+- **Erfahrung:** 15 Jahre Fußball, seit Q3 2024 Ausdauersport (ambitioniert). Berlin Marathon 2025 (4:07:00). Köln Spoho Halbmarathon 2026 (1:49:00). 
+- **Stil:** Fan von strukturierten Plänen (z.B. Pfitzinger 18/55).
+- **Präferenz:** Laufen am liebsten draußen, Radfahren auch indoor okay (Wahoo Kickr).
+- **Rhythmus:** Montags bevorzugt Ruhetag. Umfang 6-12 Std./Woche. 40h Woche Arbeit plus 40 min Pendeln pro Tag.
 
 ## GESUNDHEIT (WICHTIG FÜR STEUERUNG)
-- **Historische Verletzung:** IT-Band (nach Marathon 10/2025) Shin-splints (nach Wiedereinstieg Anfang 2026). Aktuell **BESCHWERDEFREI** und voll belastbar (30km Trail & Halbmarathon Race ohne Probleme).
+- **Historische Verletzung:** Früher Patella Spitzensyndrom. Aktuell Entzündung am Fußballen. Leicht belastbar (Hyrox und Halbmarathon noch nicht) 
 - **Fokus:** Präventive Belastungssteuerung. Der Coach soll auf die Ramp Rate (ACWR) achten, um Überlastung der unteren Kette zu vermeiden.
-- **Limitierung:** Bekannte Steifheit in Waden/Achillessehnen. Schwacher Adductor und gluteus Medius.
 
 ## ZIELE & WETTKÄMPFE (2026)
-- **Hauptziel:** Ironman 70.3 Westfriesland (21.06.) – Zielzeit 5:00h - 5:30h.
-- **Laufziele:** Halbmarathon Sub 90min, schneller Marathon (sub 3 in der Zukunft).
+- **Hauptziel:** Marathon Köln (4.10.) – Zielzeit sub 3:30h
+- **Laufziele:** Ultra Marathon (Backyard)
 - **Rennkalender:**
-  - 29.03. Venloop 10k (Ziel: PB)
-  - 19.04. Hyrox Cologne
-  - 26.04. Düsseldorf Halbmarathon (B-Race)
-  - 21.06. Ironman 70.3 Westfriesland (A-Race)
-  - 18.10. Amsterdam Marathon (Ziel: schnelle Zeit / PB = sub 3:43:00)
+  - 01.08. Backyard Ultra (A-Race)
+  - 04.10. Köln Marathon (Ziel: schnelle Zeit / PB)
 
 ## PRÄFERENZEN & EQUIPMENT
-- **Equipment:** Wahoo Kickr Core (Indoor), Whoop (Recovery-Tracking, wird aber eher informativ genutzt), Coros Pace Pro (Laufuhr), Wahoo Element Bolt v3 (Bikecomputer).
+- **Equipment:** Wahoo Kickr Core (Indoor), Whoop (Recovery-Tracking, wird aber eher informativ genutzt), Coros Pace 4 (Laufuhr).
 - **Stil:** Großer Fan von festen, strukturierten Plänen. Bevorzugt Training im Freien (besonders Laufen), akzeptiert Indoor-Training für Effizienz auf dem Rad.
 - **Coaching-Wunsch:** Pläne sollen Stärken/Schwächen berücksichtigen, aber die Struktur von bewährten Methoden (wie Pfitzinger) beibehalten.
 
 ## COACHING-AUFTRAG
-- Erstelle Pläne, die meine Ausdauer für den 70.3 aufbauen, ohne die Schnelligkeit für die Halbmarathon-Ziele zu opfern.
+- Erstelle Pläne, die meine Ausdauer für den Marathon aufbauen, ohne die Schnelligkeit für Halbmarathon-Ziele zu opfern.
 - Nutze die GitHub-Schnittstelle (latest.json), um mein tägliches Training zu bewerten.
