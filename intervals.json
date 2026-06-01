@@ -1,106 +1,80 @@
 {
-  "generated_at": "2026-05-27T08:09:15.942872",
+  "generated_at": "2026-06-01T09:32:12.452097",
   "version": "3.92",
   "scan_hours": 72,
   "retention_days": 8,
   "activities": [
     {
-      "activity_id": "i149791431",
-      "date": "2026-05-19",
+      "activity_id": "i152991873",
+      "date": "2026-05-31",
       "type": "Run",
-      "name": "Abendlauf",
+      "name": "Evening Run",
       "interval_summary": [
-        "8x 5m43s 171bpm",
-        "1x 4m28s 182bpm"
+        "4x 6m40s 154bpm",
+        "1x 8m22s 150bpm",
+        "1x 66s 167bpm"
       ],
       "intervals": [
         {
           "type": "WORK",
-          "label": "343s@171bpm88rpm",
-          "duration_secs": 377,
-          "avg_hr": 146,
-          "max_hr": 158,
-          "avg_cadence": 87.77151,
-          "zone": 1
+          "label": "400s@154bpm85rpm",
+          "duration_secs": 395,
+          "avg_hr": 150,
+          "max_hr": 160,
+          "avg_cadence": 85.80513,
+          "zone": 2
         },
         {
           "type": "WORK",
-          "label": "343s@171bpm88rpm",
-          "duration_secs": 366,
-          "avg_hr": 161,
-          "max_hr": 170,
-          "avg_cadence": 87.47541,
+          "label": "400s@154bpm85rpm",
+          "duration_secs": 399,
+          "avg_hr": 155,
+          "max_hr": 163,
+          "avg_cadence": 85.78195,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "400s@154bpm85rpm",
+          "duration_secs": 432,
+          "avg_hr": 150,
+          "max_hr": 162,
+          "avg_cadence": 84.66247,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "502s@150bpm75rpm",
+          "duration_secs": 502,
+          "avg_hr": 150,
+          "max_hr": 166,
+          "avg_cadence": 74.584724,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "400s@154bpm85rpm",
+          "duration_secs": 375,
+          "avg_hr": 159,
+          "max_hr": 166,
+          "avg_cadence": 84.58933,
           "zone": 3
         },
         {
           "type": "WORK",
-          "label": "343s@171bpm88rpm",
-          "duration_secs": 366,
-          "avg_hr": 171,
-          "max_hr": 179,
-          "avg_cadence": 87.02186,
+          "label": "66s@167bpm86rpm",
+          "duration_secs": 66,
+          "avg_hr": 167,
+          "max_hr": 169,
+          "avg_cadence": 86.15151,
           "zone": 4
-        },
-        {
-          "type": "WORK",
-          "label": "343s@171bpm88rpm",
-          "duration_secs": 353,
-          "avg_hr": 169,
-          "max_hr": 173,
-          "avg_cadence": 87.60906,
-          "zone": 4
-        },
-        {
-          "type": "WORK",
-          "label": "343s@171bpm88rpm",
-          "duration_secs": 348,
-          "avg_hr": 173,
-          "max_hr": 179,
-          "avg_cadence": 87.68965,
-          "zone": 4
-        },
-        {
-          "type": "WORK",
-          "label": "343s@171bpm88rpm",
-          "duration_secs": 325,
-          "avg_hr": 180,
-          "max_hr": 185,
-          "avg_cadence": 87.24308,
-          "zone": 5
-        },
-        {
-          "type": "WORK",
-          "label": "343s@171bpm88rpm",
-          "duration_secs": 311,
-          "avg_hr": 180,
-          "max_hr": 185,
-          "avg_cadence": 88.79421,
-          "zone": 5
-        },
-        {
-          "type": "WORK",
-          "label": "343s@171bpm88rpm",
-          "duration_secs": 301,
-          "avg_hr": 186,
-          "max_hr": 192,
-          "avg_cadence": 89.06977,
-          "zone": 7
-        },
-        {
-          "type": "WORK",
-          "label": "268s@182bpm89rpm",
-          "duration_secs": 268,
-          "avg_hr": 182,
-          "max_hr": 189,
-          "avg_cadence": 88.64257,
-          "zone": 6
         },
         {
           "type": "RECOVERY",
           "duration_secs": 1,
-          "avg_hr": 181,
-          "max_hr": 181,
-          "zone": 6
+          "avg_hr": 166,
+          "max_hr": 166,
+          "zone": 3
         }
       ]
     }
