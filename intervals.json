@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T08:38:10.841939",
+  "generated_at": "2026-06-13T07:53:10.320417",
   "version": "3.92",
   "scan_hours": 72,
   "retention_days": 8,
@@ -93,6 +93,70 @@
           "avg_hr": 157,
           "max_hr": 157,
           "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i156713552",
+      "date": "2026-06-12",
+      "type": "Run",
+      "name": "Evening Laufen",
+      "interval_summary": [
+        "5x 6m16s 157bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "376s@157bpm86rpm",
+          "duration_secs": 381,
+          "avg_hr": 145,
+          "max_hr": 162,
+          "avg_cadence": 83.89893,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "376s@157bpm86rpm",
+          "duration_secs": 374,
+          "avg_hr": 160,
+          "max_hr": 166,
+          "avg_cadence": 86.885025,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "376s@157bpm86rpm",
+          "duration_secs": 392,
+          "avg_hr": 156,
+          "max_hr": 163,
+          "avg_cadence": 86.21173,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "376s@157bpm86rpm",
+          "duration_secs": 370,
+          "avg_hr": 160,
+          "max_hr": 168,
+          "avg_cadence": 87.23784,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "376s@157bpm86rpm",
+          "duration_secs": 363,
+          "avg_hr": 166,
+          "max_hr": 171,
+          "avg_cadence": 87.81543,
+          "zone": 3
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3,
+          "avg_hr": 169,
+          "max_hr": 169,
+          "avg_cadence": 90.0,
+          "zone": 4
         }
       ]
     }
