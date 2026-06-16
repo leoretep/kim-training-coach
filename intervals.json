@@ -1,28 +1,9 @@
 {
-  "generated_at": "2026-06-15T10:29:44.334998",
+  "generated_at": "2026-06-16T09:32:06.792637",
   "version": "3.92",
   "scan_hours": 72,
   "retention_days": 8,
   "activities": [
-    {
-      "activity_id": "i154977726",
-      "date": "2026-06-07",
-      "type": "Ride",
-      "name": "Lunch Radfahren",
-      "interval_summary": [
-        "1x 70s 125bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "70s@125bpm",
-          "duration_secs": 70,
-          "avg_hr": 125,
-          "max_hr": 155,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i155826222",
       "date": "2026-06-09",
