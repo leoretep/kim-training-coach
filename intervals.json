@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T09:32:06.792637",
+  "generated_at": "2026-06-17T09:07:13.352884",
   "version": "3.92",
   "scan_hours": 72,
   "retention_days": 8,
@@ -247,6 +247,79 @@
           "avg_hr": 131,
           "max_hr": 131,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i157835467",
+      "date": "2026-06-16",
+      "type": "Run",
+      "name": "Evening Laufen",
+      "interval_summary": [
+        "5x 6m39s 155bpm",
+        "1x 63s 162bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "399s@155bpm86rpm",
+          "duration_secs": 402,
+          "avg_hr": 151,
+          "max_hr": 163,
+          "avg_cadence": 85.173805,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "399s@155bpm86rpm",
+          "duration_secs": 395,
+          "avg_hr": 156,
+          "max_hr": 163,
+          "avg_cadence": 85.673416,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "399s@155bpm86rpm",
+          "duration_secs": 408,
+          "avg_hr": 154,
+          "max_hr": 160,
+          "avg_cadence": 85.20343,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "399s@155bpm86rpm",
+          "duration_secs": 399,
+          "avg_hr": 154,
+          "max_hr": 160,
+          "avg_cadence": 85.6391,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "399s@155bpm86rpm",
+          "duration_secs": 389,
+          "avg_hr": 160,
+          "max_hr": 168,
+          "avg_cadence": 86.43445,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "63s@162bpm86rpm",
+          "duration_secs": 63,
+          "avg_hr": 162,
+          "max_hr": 164,
+          "avg_cadence": 86.048386,
+          "zone": 3
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 161,
+          "max_hr": 161,
+          "zone": 3
         }
       ]
     }
