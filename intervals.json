@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T07:54:52.036362",
+  "generated_at": "2026-06-29T09:03:36.008257",
   "version": "3.92",
   "scan_hours": 72,
   "retention_days": 8,
@@ -74,6 +74,89 @@
           "avg_hr": 171,
           "max_hr": 171,
           "avg_cadence": 87.0,
+          "zone": 4
+        }
+      ]
+    },
+    {
+      "activity_id": "i161010667",
+      "date": "2026-06-28",
+      "type": "Run",
+      "name": "Afternoon Laufen",
+      "interval_summary": [
+        "1x 6m33s 145bpm",
+        "6x 6m2s 168bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "393s@145bpm87rpm",
+          "duration_secs": 393,
+          "avg_hr": 145,
+          "max_hr": 163,
+          "avg_cadence": 86.628944,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "362s@168bpm87rpm",
+          "duration_secs": 374,
+          "avg_hr": 162,
+          "max_hr": 166,
+          "avg_cadence": 86.49733,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "362s@168bpm87rpm",
+          "duration_secs": 364,
+          "avg_hr": 165,
+          "max_hr": 170,
+          "avg_cadence": 86.71154,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "362s@168bpm87rpm",
+          "duration_secs": 365,
+          "avg_hr": 167,
+          "max_hr": 171,
+          "avg_cadence": 87.227394,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "362s@168bpm87rpm",
+          "duration_secs": 370,
+          "avg_hr": 169,
+          "max_hr": 172,
+          "avg_cadence": 87.01081,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "362s@168bpm87rpm",
+          "duration_secs": 361,
+          "avg_hr": 170,
+          "max_hr": 175,
+          "avg_cadence": 87.565094,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "362s@168bpm87rpm",
+          "duration_secs": 335,
+          "avg_hr": 174,
+          "max_hr": 179,
+          "avg_cadence": 87.740295,
+          "zone": 4
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3,
+          "avg_hr": 173,
+          "max_hr": 173,
+          "avg_cadence": 86.0,
           "zone": 4
         }
       ]
