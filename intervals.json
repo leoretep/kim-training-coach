@@ -1,76 +1,9 @@
 {
-  "generated_at": "2026-07-27T07:40:38.627903",
+  "generated_at": "2026-07-28T06:33:55.903870",
   "version": "3.92",
   "scan_hours": 72,
   "retention_days": 8,
   "activities": [
-    {
-      "activity_id": "i167047795",
-      "date": "2026-07-19",
-      "type": "Run",
-      "name": "Morning Laufen",
-      "interval_summary": [
-        "1x 6m18s 143bpm",
-        "4x 5m46s 170bpm",
-        "1x 2m48s 178bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "378s@143bpm88rpm",
-          "duration_secs": 378,
-          "avg_hr": 143,
-          "max_hr": 163,
-          "avg_cadence": 87.6485,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "346s@170bpm88rpm",
-          "duration_secs": 361,
-          "avg_hr": 162,
-          "max_hr": 170,
-          "avg_cadence": 87.60388,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "346s@170bpm88rpm",
-          "duration_secs": 344,
-          "avg_hr": 169,
-          "max_hr": 173,
-          "avg_cadence": 88.28488,
-          "zone": 4
-        },
-        {
-          "type": "WORK",
-          "label": "346s@170bpm88rpm",
-          "duration_secs": 342,
-          "avg_hr": 172,
-          "max_hr": 174,
-          "avg_cadence": 88.16374,
-          "zone": 4
-        },
-        {
-          "type": "WORK",
-          "label": "346s@170bpm88rpm",
-          "duration_secs": 336,
-          "avg_hr": 177,
-          "max_hr": 182,
-          "avg_cadence": 88.70238,
-          "zone": 5
-        },
-        {
-          "type": "WORK",
-          "label": "168s@178bpm89rpm",
-          "duration_secs": 168,
-          "avg_hr": 178,
-          "max_hr": 183,
-          "avg_cadence": 89.125,
-          "zone": 5
-        }
-      ]
-    },
     {
       "activity_id": "i168541995",
       "date": "2026-07-23",
@@ -245,6 +178,92 @@
           "avg_hr": 176,
           "max_hr": 176,
           "zone": 5
+        }
+      ]
+    },
+    {
+      "activity_id": "i169789523",
+      "date": "2026-07-27",
+      "type": "Ride",
+      "name": "Evening Radfahren",
+      "interval_summary": [
+        "2x 15m50s 128bpm",
+        "2x 13m6s 146bpm",
+        "1x 14m50s 150bpm",
+        "2x 10m42s 146bpm",
+        "1x 5m38s 132bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "950s@128bpm",
+          "duration_secs": 930,
+          "avg_hr": 130,
+          "max_hr": 163,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "786s@146bpm",
+          "duration_secs": 791,
+          "avg_hr": 153,
+          "max_hr": 167,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "890s@150bpm",
+          "duration_secs": 890,
+          "avg_hr": 150,
+          "max_hr": 176,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "786s@146bpm",
+          "duration_secs": 780,
+          "avg_hr": 138,
+          "max_hr": 161,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "642s@146bpm",
+          "duration_secs": 663,
+          "avg_hr": 153,
+          "max_hr": 169,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "642s@146bpm",
+          "duration_secs": 621,
+          "avg_hr": 139,
+          "max_hr": 155,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "950s@128bpm",
+          "duration_secs": 969,
+          "avg_hr": 126,
+          "max_hr": 155,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "338s@132bpm",
+          "duration_secs": 338,
+          "avg_hr": 132,
+          "max_hr": 142,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 123,
+          "max_hr": 123,
+          "zone": 1
         }
       ]
     }
