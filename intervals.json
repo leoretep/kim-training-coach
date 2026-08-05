@@ -1,95 +1,9 @@
 {
-  "generated_at": "2026-08-04T06:34:44.969756",
+  "generated_at": "2026-08-05T06:35:34.263101",
   "version": "3.92",
   "scan_hours": 72,
   "retention_days": 8,
   "activities": [
-    {
-      "activity_id": "i169789523",
-      "date": "2026-07-27",
-      "type": "Ride",
-      "name": "Evening Radfahren",
-      "interval_summary": [
-        "2x 15m50s 128bpm",
-        "2x 13m6s 146bpm",
-        "1x 14m50s 150bpm",
-        "2x 10m42s 146bpm",
-        "1x 5m38s 132bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "950s@128bpm",
-          "duration_secs": 930,
-          "avg_hr": 130,
-          "max_hr": 163,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "786s@146bpm",
-          "duration_secs": 791,
-          "avg_hr": 153,
-          "max_hr": 167,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "890s@150bpm",
-          "duration_secs": 890,
-          "avg_hr": 150,
-          "max_hr": 176,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "786s@146bpm",
-          "duration_secs": 780,
-          "avg_hr": 138,
-          "max_hr": 161,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "642s@146bpm",
-          "duration_secs": 663,
-          "avg_hr": 153,
-          "max_hr": 169,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "642s@146bpm",
-          "duration_secs": 621,
-          "avg_hr": 139,
-          "max_hr": 155,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "950s@128bpm",
-          "duration_secs": 969,
-          "avg_hr": 126,
-          "max_hr": 155,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "338s@132bpm",
-          "duration_secs": 338,
-          "avg_hr": 132,
-          "max_hr": 142,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1,
-          "avg_hr": 123,
-          "max_hr": 123,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i170542224",
       "date": "2026-07-29",
