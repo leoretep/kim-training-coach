@@ -1,82 +1,9 @@
 {
-  "generated_at": "2026-09-02T08:41:26.980267",
+  "generated_at": "2026-09-03T08:50:32.016989",
   "version": "3.92",
   "scan_hours": 72,
   "retention_days": 8,
   "activities": [
-    {
-      "activity_id": "i180090596",
-      "date": "2026-08-25",
-      "type": "Run",
-      "name": "Evening Run",
-      "interval_summary": [
-        "5x 6m1s 152bpm",
-        "1x 4s 150bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "361s@152bpm88rpm",
-          "duration_secs": 367,
-          "avg_hr": 148,
-          "max_hr": 160,
-          "avg_cadence": 88.24862,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "361s@152bpm88rpm",
-          "duration_secs": 358,
-          "avg_hr": 151,
-          "max_hr": 160,
-          "avg_cadence": 88.02793,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "361s@152bpm88rpm",
-          "duration_secs": 358,
-          "avg_hr": 152,
-          "max_hr": 158,
-          "avg_cadence": 88.0419,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "361s@152bpm88rpm",
-          "duration_secs": 357,
-          "avg_hr": 150,
-          "max_hr": 159,
-          "avg_cadence": 88.4958,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "361s@152bpm88rpm",
-          "duration_secs": 363,
-          "avg_hr": 158,
-          "max_hr": 162,
-          "avg_cadence": 88.81844,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "4s@150bpm82rpm",
-          "duration_secs": 4,
-          "avg_hr": 150,
-          "max_hr": 150,
-          "avg_cadence": 82.0,
-          "zone": 2
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1,
-          "avg_hr": 150,
-          "max_hr": 150,
-          "zone": 2
-        }
-      ]
-    },
     {
       "activity_id": "i180135240",
       "date": "2026-08-26",
