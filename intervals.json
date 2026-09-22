@@ -1,84 +1,9 @@
 {
-  "generated_at": "2026-09-21T09:49:42.452184",
+  "generated_at": "2026-09-22T09:13:17.388826",
   "version": "3.92",
   "scan_hours": 72,
   "retention_days": 8,
   "activities": [
-    {
-      "activity_id": "i186500728",
-      "date": "2026-09-13",
-      "type": "Run",
-      "name": "Afternoon Run",
-      "interval_summary": [
-        "6x 6m22s 153bpm",
-        "1x 2m59s 169bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "382s@153bpm85rpm",
-          "duration_secs": 397,
-          "avg_hr": 142,
-          "max_hr": 163,
-          "avg_cadence": 83.64541,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "382s@153bpm85rpm",
-          "duration_secs": 390,
-          "avg_hr": 147,
-          "max_hr": 154,
-          "avg_cadence": 84.135895,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "382s@153bpm85rpm",
-          "duration_secs": 386,
-          "avg_hr": 151,
-          "max_hr": 158,
-          "avg_cadence": 84.795334,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "382s@153bpm85rpm",
-          "duration_secs": 385,
-          "avg_hr": 154,
-          "max_hr": 160,
-          "avg_cadence": 84.72987,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "382s@153bpm85rpm",
-          "duration_secs": 372,
-          "avg_hr": 158,
-          "max_hr": 164,
-          "avg_cadence": 86.41398,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "382s@153bpm85rpm",
-          "duration_secs": 363,
-          "avg_hr": 166,
-          "max_hr": 177,
-          "avg_cadence": 87.41598,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "179s@169bpm88rpm",
-          "duration_secs": 179,
-          "avg_hr": 169,
-          "max_hr": 179,
-          "avg_cadence": 88.02247,
-          "zone": 4
-        }
-      ]
-    },
     {
       "activity_id": "i188029665",
       "date": "2026-09-18",
