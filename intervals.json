@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T09:47:14.213981",
+  "generated_at": "2026-10-04T10:30:37.356371",
   "version": "3.92",
   "scan_hours": 72,
   "retention_days": 8,
@@ -408,6 +408,79 @@
           "avg_hr": 183,
           "max_hr": 183,
           "zone": 6
+        }
+      ]
+    },
+    {
+      "activity_id": "i192911581",
+      "date": "2026-10-03",
+      "type": "Run",
+      "name": "Lauf am Morgen",
+      "interval_summary": [
+        "5x 6m35s 159bpm",
+        "1x 46m34s 100bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "395s@159bpm88rpm",
+          "duration_secs": 395,
+          "avg_hr": 150,
+          "max_hr": 164,
+          "avg_cadence": 88.81795,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "395s@159bpm88rpm",
+          "duration_secs": 390,
+          "avg_hr": 163,
+          "max_hr": 173,
+          "avg_cadence": 85.864105,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "395s@159bpm88rpm",
+          "duration_secs": 397,
+          "avg_hr": 162,
+          "max_hr": 167,
+          "avg_cadence": 89.32242,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "395s@159bpm88rpm",
+          "duration_secs": 401,
+          "avg_hr": 158,
+          "max_hr": 166,
+          "avg_cadence": 89.22444,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "395s@159bpm88rpm",
+          "duration_secs": 394,
+          "avg_hr": 163,
+          "max_hr": 178,
+          "avg_cadence": 86.46193,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "2794s@100bpm10rpm",
+          "duration_secs": 2794,
+          "avg_hr": 100,
+          "max_hr": 175,
+          "avg_cadence": 10.174626,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 100,
+          "max_hr": 100,
+          "zone": 1
         }
       ]
     }
