@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T11:10:21.448709",
+  "generated_at": "2026-10-07T10:58:38.536921",
   "version": "3.92",
   "scan_hours": 72,
   "retention_days": 8,
@@ -145,6 +145,116 @@
           "avg_hr": 146,
           "max_hr": 161,
           "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i194383855",
+      "date": "2026-10-06",
+      "type": "Ride",
+      "name": "Fahrt am Nachmittag",
+      "interval_summary": [
+        "1x 16m2s 122bpm",
+        "7x 12m3s 142bpm",
+        "1x 14m8s 134bpm",
+        "1x 27m22s 107bpm",
+        "1x 3m42s 126bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "962s@122bpm",
+          "duration_secs": 962,
+          "avg_hr": 122,
+          "max_hr": 150,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "723s@142bpm",
+          "duration_secs": 727,
+          "avg_hr": 142,
+          "max_hr": 157,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "723s@142bpm",
+          "duration_secs": 732,
+          "avg_hr": 143,
+          "max_hr": 164,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "723s@142bpm",
+          "duration_secs": 714,
+          "avg_hr": 142,
+          "max_hr": 160,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "723s@142bpm",
+          "duration_secs": 707,
+          "avg_hr": 143,
+          "max_hr": 169,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "723s@142bpm",
+          "duration_secs": 697,
+          "avg_hr": 144,
+          "max_hr": 164,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "723s@142bpm",
+          "duration_secs": 729,
+          "avg_hr": 143,
+          "max_hr": 156,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "848s@134bpm",
+          "duration_secs": 848,
+          "avg_hr": 134,
+          "max_hr": 158,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "723s@142bpm",
+          "duration_secs": 752,
+          "avg_hr": 138,
+          "max_hr": 151,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1642s@107bpm",
+          "duration_secs": 1642,
+          "avg_hr": 107,
+          "max_hr": 143,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "222s@126bpm",
+          "duration_secs": 222,
+          "avg_hr": 126,
+          "max_hr": 148,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 100,
+          "max_hr": 100,
+          "zone": 1
         }
       ]
     }
