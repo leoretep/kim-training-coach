@@ -1,80 +1,9 @@
 {
-  "generated_at": "2026-10-13T11:38:10.959627",
+  "generated_at": "2026-10-14T09:24:54.186795",
   "version": "3.92",
   "scan_hours": 72,
   "retention_days": 8,
   "activities": [
-    {
-      "activity_id": "i193941168",
-      "date": "2026-10-05",
-      "type": "Ride",
-      "name": "Evening Radfahren",
-      "interval_summary": [
-        "1x 16m56s 131bpm",
-        "3x 12m41s 152bpm",
-        "1x 10m19s 155bpm",
-        "1x 10m41s 112bpm",
-        "1x 2m1s 146bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "1016s@131bpm",
-          "duration_secs": 1016,
-          "avg_hr": 131,
-          "max_hr": 170,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "761s@152bpm",
-          "duration_secs": 763,
-          "avg_hr": 153,
-          "max_hr": 172,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "761s@152bpm",
-          "duration_secs": 832,
-          "avg_hr": 159,
-          "max_hr": 175,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "619s@155bpm",
-          "duration_secs": 619,
-          "avg_hr": 155,
-          "max_hr": 172,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "761s@152bpm",
-          "duration_secs": 688,
-          "avg_hr": 143,
-          "max_hr": 169,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "641s@112bpm",
-          "duration_secs": 641,
-          "avg_hr": 112,
-          "max_hr": 173,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "121s@146bpm",
-          "duration_secs": 121,
-          "avg_hr": 146,
-          "max_hr": 161,
-          "zone": 2
-        }
-      ]
-    },
     {
       "activity_id": "i194383855",
       "date": "2026-10-06",
@@ -484,6 +413,43 @@
           "max_hr": 166,
           "avg_cadence": 85.0,
           "zone": 3
+        }
+      ]
+    },
+    {
+      "activity_id": "i196898858",
+      "date": "2026-10-13",
+      "type": "Run",
+      "name": "Evening Laufen",
+      "interval_summary": [
+        "1x 42m31s 156bpm",
+        "1x 85s 174bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "2551s@156bpm87rpm",
+          "duration_secs": 2551,
+          "avg_hr": 156,
+          "max_hr": 182,
+          "avg_cadence": 86.9129,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "85s@174bpm85rpm",
+          "duration_secs": 85,
+          "avg_hr": 174,
+          "max_hr": 178,
+          "avg_cadence": 85.17105,
+          "zone": 4
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 176,
+          "max_hr": 176,
+          "zone": 5
         }
       ]
     }
