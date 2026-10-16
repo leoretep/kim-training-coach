@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T09:03:11.767629",
+  "generated_at": "2026-10-16T08:55:41.556404",
   "version": "3.92",
   "scan_hours": 72,
   "retention_days": 8,
@@ -340,6 +340,90 @@
           "avg_hr": 176,
           "max_hr": 176,
           "zone": 5
+        }
+      ]
+    },
+    {
+      "activity_id": "i197697682",
+      "date": "2026-10-15",
+      "type": "Run",
+      "name": "Evening Laufen",
+      "interval_summary": [
+        "7x 6m 158bpm",
+        "1x 1m51s 157bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "360s@158bpm87rpm",
+          "duration_secs": 376,
+          "avg_hr": 142,
+          "max_hr": 157,
+          "avg_cadence": 86.22911,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "360s@158bpm87rpm",
+          "duration_secs": 346,
+          "avg_hr": 157,
+          "max_hr": 162,
+          "avg_cadence": 87.54913,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "360s@158bpm87rpm",
+          "duration_secs": 366,
+          "avg_hr": 162,
+          "max_hr": 168,
+          "avg_cadence": 86.93716,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "360s@158bpm87rpm",
+          "duration_secs": 360,
+          "avg_hr": 160,
+          "max_hr": 164,
+          "avg_cadence": 88.17778,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "360s@158bpm87rpm",
+          "duration_secs": 364,
+          "avg_hr": 166,
+          "max_hr": 175,
+          "avg_cadence": 85.17857,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "360s@158bpm87rpm",
+          "duration_secs": 358,
+          "avg_hr": 162,
+          "max_hr": 166,
+          "avg_cadence": 88.6648,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "360s@158bpm87rpm",
+          "duration_secs": 352,
+          "avg_hr": 160,
+          "max_hr": 164,
+          "avg_cadence": 89.25,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "111s@157bpm89rpm",
+          "duration_secs": 111,
+          "avg_hr": 157,
+          "max_hr": 160,
+          "avg_cadence": 89.297295,
+          "zone": 2
         }
       ]
     }
