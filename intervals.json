@@ -1,37 +1,9 @@
 {
-  "generated_at": "2026-10-26T09:58:53.547399",
+  "generated_at": "2026-10-27T09:43:43.866323",
   "version": "3.92",
   "scan_hours": 72,
   "retention_days": 8,
   "activities": [
-    {
-      "activity_id": "i198552856",
-      "date": "2026-10-18",
-      "type": "Run",
-      "name": "Morning Laufen",
-      "interval_summary": [
-        "1x 1h9m 161bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "4152s@161bpm90rpm",
-          "duration_secs": 4152,
-          "avg_hr": 161,
-          "max_hr": 175,
-          "avg_cadence": 89.75757,
-          "zone": 3
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 4,
-          "avg_hr": 171,
-          "max_hr": 172,
-          "avg_cadence": 92.75,
-          "zone": 4
-        }
-      ]
-    },
     {
       "activity_id": "i199673492",
       "date": "2026-10-20",
