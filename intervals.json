@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T10:49:03.239558",
+  "generated_at": "2026-10-30T10:47:26.860014",
   "version": "3.92",
   "scan_hours": 72,
   "retention_days": 8,
@@ -383,6 +383,34 @@
           "max_hr": 154,
           "avg_cadence": 84.0,
           "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i203319300",
+      "date": "2026-10-29",
+      "type": "Run",
+      "name": "Evening Laufen",
+      "interval_summary": [
+        "1x 49m42s 163bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "2982s@163bpm88rpm",
+          "duration_secs": 2982,
+          "avg_hr": 163,
+          "max_hr": 182,
+          "avg_cadence": 88.2011,
+          "zone": 3
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 8,
+          "avg_hr": 168,
+          "max_hr": 169,
+          "avg_cadence": 91.125,
+          "zone": 4
         }
       ]
     }
