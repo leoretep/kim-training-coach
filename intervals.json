@@ -1,100 +1,9 @@
 {
-  "generated_at": "2026-11-01T11:10:54.523569",
+  "generated_at": "2026-11-02T12:13:07.419508",
   "version": "3.92",
   "scan_hours": 72,
   "retention_days": 8,
   "activities": [
-    {
-      "activity_id": "i201142200",
-      "date": "2026-10-24",
-      "type": "Run",
-      "name": "Lunch Laufen",
-      "interval_summary": [
-        "7x 6m41s 152bpm",
-        "1x 83s 159bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "401s@152bpm84rpm",
-          "duration_secs": 417,
-          "avg_hr": 143,
-          "max_hr": 158,
-          "avg_cadence": 80.57039,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "401s@152bpm84rpm",
-          "duration_secs": 410,
-          "avg_hr": 152,
-          "max_hr": 161,
-          "avg_cadence": 84.98781,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "401s@152bpm84rpm",
-          "duration_secs": 416,
-          "avg_hr": 148,
-          "max_hr": 160,
-          "avg_cadence": 83.25481,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "401s@152bpm84rpm",
-          "duration_secs": 403,
-          "avg_hr": 160,
-          "max_hr": 168,
-          "avg_cadence": 85.15633,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "401s@152bpm84rpm",
-          "duration_secs": 452,
-          "avg_hr": 150,
-          "max_hr": 161,
-          "avg_cadence": 75.69026,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "401s@152bpm84rpm",
-          "duration_secs": 369,
-          "avg_hr": 152,
-          "max_hr": 159,
-          "avg_cadence": 88.09485,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "401s@152bpm84rpm",
-          "duration_secs": 339,
-          "avg_hr": 158,
-          "max_hr": 161,
-          "avg_cadence": 89.88791,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "83s@159bpm89rpm",
-          "duration_secs": 83,
-          "avg_hr": 159,
-          "max_hr": 161,
-          "avg_cadence": 89.09638,
-          "zone": 3
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1,
-          "avg_hr": 160,
-          "max_hr": 160,
-          "zone": 3
-        }
-      ]
-    },
     {
       "activity_id": "i201376349",
       "date": "2026-10-25",
@@ -280,6 +189,43 @@
           "avg_hr": 162,
           "max_hr": 162,
           "avg_cadence": 89.0,
+          "zone": 3
+        }
+      ]
+    },
+    {
+      "activity_id": "i204317281",
+      "date": "2026-11-01",
+      "type": "Run",
+      "name": "Lunch Laufen",
+      "interval_summary": [
+        "1x 1h34m 157bpm",
+        "1x 2m35s 158bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "5697s@157bpm87rpm",
+          "duration_secs": 5697,
+          "avg_hr": 157,
+          "max_hr": 169,
+          "avg_cadence": 86.98809,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "155s@158bpm87rpm",
+          "duration_secs": 155,
+          "avg_hr": 158,
+          "max_hr": 160,
+          "avg_cadence": 87.42254,
+          "zone": 3
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 160,
+          "max_hr": 160,
           "zone": 3
         }
       ]
