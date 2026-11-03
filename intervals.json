@@ -1,37 +1,9 @@
 {
-  "generated_at": "2026-11-02T12:13:07.419508",
+  "generated_at": "2026-11-03T11:47:45.898384",
   "version": "3.92",
   "scan_hours": 72,
   "retention_days": 8,
   "activities": [
-    {
-      "activity_id": "i201376349",
-      "date": "2026-10-25",
-      "type": "Run",
-      "name": "Morning Laufen",
-      "interval_summary": [
-        "1x 1h20m 159bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "4833s@159bpm89rpm",
-          "duration_secs": 4833,
-          "avg_hr": 159,
-          "max_hr": 170,
-          "avg_cadence": 89.02821,
-          "zone": 3
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 4,
-          "avg_hr": 154,
-          "max_hr": 154,
-          "avg_cadence": 91.0,
-          "zone": 2
-        }
-      ]
-    },
     {
       "activity_id": "i202480632",
       "date": "2026-10-27",
@@ -226,6 +198,34 @@
           "duration_secs": 1,
           "avg_hr": 160,
           "max_hr": 160,
+          "zone": 3
+        }
+      ]
+    },
+    {
+      "activity_id": "i204901291",
+      "date": "2026-11-02",
+      "type": "Run",
+      "name": "Evening Laufen",
+      "interval_summary": [
+        "1x 52m8s 152bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "3128s@152bpm86rpm",
+          "duration_secs": 3128,
+          "avg_hr": 152,
+          "max_hr": 164,
+          "avg_cadence": 86.13291,
+          "zone": 2
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 6,
+          "avg_hr": 163,
+          "max_hr": 164,
+          "avg_cadence": 94.666664,
           "zone": 3
         }
       ]
