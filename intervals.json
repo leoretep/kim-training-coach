@@ -1,47 +1,9 @@
 {
-  "generated_at": "2026-11-07T10:58:08.400105",
+  "generated_at": "2026-11-08T11:11:25.856279",
   "version": "3.92",
   "scan_hours": 72,
   "retention_days": 8,
   "activities": [
-    {
-      "activity_id": "i203602275",
-      "date": "2026-10-30",
-      "type": "Run",
-      "name": "Afternoon Laufen",
-      "interval_summary": [
-        "1x 47m27s 161bpm",
-        "1x 3m46s 165bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "2847s@161bpm88rpm",
-          "duration_secs": 2847,
-          "avg_hr": 161,
-          "max_hr": 169,
-          "avg_cadence": 87.58414,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "226s@165bpm90rpm",
-          "duration_secs": 226,
-          "avg_hr": 165,
-          "max_hr": 168,
-          "avg_cadence": 89.91151,
-          "zone": 3
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1,
-          "avg_hr": 162,
-          "max_hr": 162,
-          "avg_cadence": 89.0,
-          "zone": 3
-        }
-      ]
-    },
     {
       "activity_id": "i204317281",
       "date": "2026-11-01",
