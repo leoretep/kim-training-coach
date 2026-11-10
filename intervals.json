@@ -1,46 +1,9 @@
 {
-  "generated_at": "2026-11-09T12:43:32.296096",
+  "generated_at": "2026-11-10T12:25:54.397431",
   "version": "3.92",
   "scan_hours": 72,
   "retention_days": 8,
   "activities": [
-    {
-      "activity_id": "i204317281",
-      "date": "2026-11-01",
-      "type": "Run",
-      "name": "Lunch Laufen",
-      "interval_summary": [
-        "1x 1h34m 157bpm",
-        "1x 2m35s 158bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "5697s@157bpm87rpm",
-          "duration_secs": 5697,
-          "avg_hr": 157,
-          "max_hr": 169,
-          "avg_cadence": 86.98809,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "155s@158bpm87rpm",
-          "duration_secs": 155,
-          "avg_hr": 158,
-          "max_hr": 160,
-          "avg_cadence": 87.42254,
-          "zone": 3
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1,
-          "avg_hr": 160,
-          "max_hr": 160,
-          "zone": 3
-        }
-      ]
-    },
     {
       "activity_id": "i204901291",
       "date": "2026-11-02",
@@ -231,6 +194,34 @@
           "max_hr": 167,
           "avg_cadence": 89.38492,
           "zone": 3
+        }
+      ]
+    },
+    {
+      "activity_id": "i207940369",
+      "date": "2026-11-09",
+      "type": "Run",
+      "name": "Evening Laufen",
+      "interval_summary": [
+        "1x 53m40s 154bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "3220s@154bpm87rpm",
+          "duration_secs": 3220,
+          "avg_hr": 154,
+          "max_hr": 172,
+          "avg_cadence": 86.5781,
+          "zone": 2
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 6,
+          "avg_hr": 167,
+          "max_hr": 167,
+          "avg_cadence": 85.0,
+          "zone": 4
         }
       ]
     }
