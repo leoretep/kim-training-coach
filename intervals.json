@@ -1,96 +1,9 @@
 {
-  "generated_at": "2026-11-19T12:46:01.703143",
+  "generated_at": "2026-11-20T12:41:58.345318",
   "version": "3.92",
   "scan_hours": 72,
   "retention_days": 8,
   "activities": [
-    {
-      "activity_id": "i208851116",
-      "date": "2026-11-11",
-      "type": "Run",
-      "name": "Evening Laufen",
-      "interval_summary": [
-        "1x 14m1s 149bpm",
-        "1x 13m30s 174bpm",
-        "1x 3m1s 163bpm",
-        "1x 12m 177bpm",
-        "1x 4m7s 163bpm",
-        "1x 18m24s 166bpm",
-        "1x 10s 164bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "841s@149bpm87rpm",
-          "duration_secs": 841,
-          "avg_hr": 149,
-          "max_hr": 165,
-          "avg_cadence": 86.98066,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "810s@174bpm92rpm",
-          "duration_secs": 810,
-          "avg_hr": 174,
-          "max_hr": 182,
-          "avg_cadence": 92.11855,
-          "zone": 4
-        },
-        {
-          "type": "WORK",
-          "label": "181s@163bpm87rpm",
-          "duration_secs": 181,
-          "avg_hr": 163,
-          "max_hr": 179,
-          "avg_cadence": 87.26519,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "720s@177bpm92rpm",
-          "duration_secs": 720,
-          "avg_hr": 177,
-          "max_hr": 186,
-          "avg_cadence": 92.20695,
-          "zone": 5
-        },
-        {
-          "type": "WORK",
-          "label": "247s@163bpm87rpm",
-          "duration_secs": 247,
-          "avg_hr": 163,
-          "max_hr": 181,
-          "avg_cadence": 86.91573,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "1104s@166bpm91rpm",
-          "duration_secs": 1104,
-          "avg_hr": 166,
-          "max_hr": 174,
-          "avg_cadence": 90.8645,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "10s@164bpm90rpm",
-          "duration_secs": 10,
-          "avg_hr": 164,
-          "max_hr": 165,
-          "avg_cadence": 90.1,
-          "zone": 3
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1,
-          "avg_hr": 165,
-          "max_hr": 165,
-          "zone": 3
-        }
-      ]
-    },
     {
       "activity_id": "i209636918",
       "date": "2026-11-13",
